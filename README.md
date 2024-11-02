@@ -22,6 +22,14 @@
 - Added hardcoded values to the constant file.
 - Register for TMDB API and create an app & get access token
 - Get data from TMDB now playing movies list API
+- Custom Hook for Now Playing movies
+- Create movie Slice
+- Update Store with movies data
+- Planing for main container and secondary container
+- Fetch Data for trailer Video
+- Update Store with trailer Video Data
+- Embeded the youtube video and make it autoplay and mute
+- Tailwing classes to make main container look awesome
 # Features
 - Login/Sign Up
    - Sign In /Sign up Form
@@ -34,3 +42,4 @@
 - Netflix GPT
    - Search Bar
    - Movie Suggestions
+   - 
