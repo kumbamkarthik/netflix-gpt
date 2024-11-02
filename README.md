@@ -29,7 +29,8 @@
 - Fetch Data for trailer Video
 - Update Store with trailer Video Data
 - Embeded the youtube video and make it autoplay and mute
-- Tailwing classes to make main container look awesome
+- Tailwind classes to make main container look awesome
+- Build Secondary Component
 # Features
 - Login/Sign Up
    - Sign In /Sign up Form
