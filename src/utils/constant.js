@@ -11,3 +11,10 @@ export const API_OPTIONS = {
 };
 
 export const IMG_CDN = "https://image.tmdb.org/t/p/w500"
+
+export const BG_URL = "https://assets.nflxext.com/ffe/siteui/vlv3/f272782d-cf96-4988-a675-6db2afd165e0/web/US-en-20241008-TRIFECTA-perspective_428ffa03-8f7f-42b1-9739-f2cd5b7311a6_small.jpg"
+
+export const SUPPORTED_LANGUAGES = [{identifier:"en", name:"English"}
+  ,{identifier:"hindi", name:"Hindi"},{identifier:"spanish", name:"Spanish"},
+  {identifier:"telugu", name:"Telugu"}
+]
