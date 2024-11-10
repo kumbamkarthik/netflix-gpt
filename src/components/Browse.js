@@ -9,7 +9,6 @@ const Browse = () => {
   const showGptSearch = useSelector((store) => store.gpt.showGptSearch);
   useNowPlayingMovies();
   usePopularMovies();
-  console.log(showGptSearch)
   return (
     <div>
       <Header />
